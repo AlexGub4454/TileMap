@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: 93073f10edad3f746b7af44b6042c9e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5769058128248824529
+    second: MagicMirror_0
+  - first:
+      213: 8149625019754932602
+    second: MagicMirror_1
+  - first:
+      213: 3186005817743237314
+    second: MagicMirror_2
+  - first:
+      213: -5721444357475316849
+    second: MagicMirror_3
+  - first:
+      213: 6824799227268570208
+    second: MagicMirror_4
+  - first:
+      213: -5234552494976813978
+    second: MagicMirror_5
+  - first:
+      213: 198328123255145395
+    second: MagicMirror_6
+  - first:
+      213: 5796393375534391518
+    second: MagicMirror_7
+  - first:
+      213: -3047013835958562865
+    second: MagicMirror_8
+  - first:
+      213: -6896817025196467365
+    second: MagicMirror_9
+  - first:
+      213: 7324317192260313559
+    second: MagicMirror_10
+  - first:
+      213: -8776476370953237390
+    second: MagicMirror_11
+  - first:
+      213: -7136444107584201666
+    second: MagicMirror_12
+  - first:
+      213: 6199518279317820901
+    second: MagicMirror_13
+  - first:
+      213: -2408427450334784457
+    second: MagicMirror_14
+  - first:
+      213: 7989784516078990323
+    second: MagicMirror_15
+  - first:
+      213: -7527944485935446315
+    second: MagicMirror_16
+  - first:
+      213: -2024896971544266083
+    second: MagicMirror_17
+  - first:
+      213: 13729602722923254
+    second: MagicMirror_18
+  - first:
+      213: -3374112767110761004
+    second: MagicMirror_19
+  - first:
+      213: -4562416822945913562
+    second: MagicMirror_20
+  - first:
+      213: -7583170541178325670
+    second: MagicMirror_21
+  - first:
+      213: 531156652764305585
+    second: MagicMirror_22
+  - first:
+      213: 6444812470406537654
+    second: MagicMirror_23
+  - first:
+      213: -2338029028511940539
+    second: MagicMirror_24
+  - first:
+      213: -3559300424444942401
+    second: MagicMirror_25
+  - first:
+      213: -4752866506575969118
+    second: MagicMirror_26
+  - first:
+      213: 1596138452915402804
+    second: MagicMirror_27
+  - first:
+      213: -7283262822123005134
+    second: MagicMirror_28
+  - first:
+      213: 7679812686920909981
+    second: MagicMirror_29
+  - first:
+      213: 2429409029106762107
+    second: MagicMirror_30
+  - first:
+      213: -1946278885719064168
+    second: MagicMirror_31
+  - first:
+      213: 6351322432425078637
+    second: MagicMirror_32
+  - first:
+      213: 5860398868456545812
+    second: MagicMirror_33
+  - first:
+      213: 3981157589461226771
+    second: MagicMirror_34
+  - first:
+      213: -1001316280856148225
+    second: MagicMirror_35
+  - first:
+      213: -7402996794881160497
+    second: MagicMirror_36
+  - first:
+      213: 3343420681835066106
+    second: MagicMirror_37
+  - first:
+      213: 2431533477352161293
+    second: MagicMirror_38
+  - first:
+      213: 2309780949389224104
+    second: MagicMirror_39
+  - first:
+      213: 2681275100881174807
+    second: MagicMirror_40
+  - first:
+      213: -2625860070621692520
+    second: MagicMirror_41
+  - first:
+      213: -3956392383164098337
+    second: MagicMirror_42
+  - first:
+      213: -1679673719761152158
+    second: MagicMirror_43
+  - first:
+      213: -3636645402086488235
+    second: MagicMirror_44
+  - first:
+      213: -1964989002570815033
+    second: MagicMirror_45
+  - first:
+      213: 2200672432143406379
+    second: MagicMirror_46
+  - first:
+      213: -5912414903940087726
+    second: MagicMirror_47
+  - first:
+      213: -490720016692591148
+    second: MagicMirror_48
+  - first:
+      213: 3699539693707815135
+    second: MagicMirror_49
+  - first:
+      213: 9041031032918044204
+    second: MagicMirror_50
+  - first:
+      213: -7738117094550306970
+    second: MagicMirror_51
+  - first:
+      213: 1996845922908731402
+    second: MagicMirror_52
+  - first:
+      213: 4943708645580867536
+    second: MagicMirror_53
+  - first:
+      213: 6082617436808329603
+    second: MagicMirror_54
+  - first:
+      213: 1370250311331520253
+    second: MagicMirror_55
+  - first:
+      213: -8651382669469113922
+    second: MagicMirror_56
+  - first:
+      213: 872717569214148603
+    second: MagicMirror_57
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagicMirror_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 193
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545d831720fe8f04bb8f41013033f933
+      internalID: 5769058128248824529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 238
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb52de54e9df95448b75e02cc902f663
+      internalID: 8149625019754932602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 236
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aeebebc31716b4997c7cd5589f1783
+      internalID: 3186005817743237314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 233
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66607b220d31a0846a0f5313041b123a
+      internalID: -5721444357475316849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 231
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355ea4e2954c8db429a9dace92ddc9f9
+      internalID: 6824799227268570208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 225
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7022d51c7b34fc3449574149fc00ea5c
+      internalID: -5234552494976813978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 225
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be48b59b6a02740b1bfa09ad77548c
+      internalID: 198328123255145395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 225
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d27c09f9e51da64fb73b10b0c266212
+      internalID: 5796393375534391518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 193
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445de7fdb35ee5747b2a738adb8836ff
+      internalID: -3047013835958562865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 193
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d63d6dc2944f459b6ea37e1cacfcd
+      internalID: -6896817025196467365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 193
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b42c2cd336941640872eda8218cc86c
+      internalID: 7324317192260313559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 193
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234840fa42d35b84bb67ca4d02796ada
+      internalID: -8776476370953237390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 193
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287831b7f1eedb4588090937e47e59d
+      internalID: -7136444107584201666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 193
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2bbc8acf218d5429f286b507fc47b1
+      internalID: 6199518279317820901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 193
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8ee70117ab9544e978310384d51156
+      internalID: -2408427450334784457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b48099a231341143b63bbd95e808d59
+      internalID: 7989784516078990323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 161
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa669104588dc347928ff796483826f
+      internalID: -7527944485935446315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 161
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b867af6d119cdf740bd049f9ae2d7c54
+      internalID: -2024896971544266083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 161
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b0d54299015c74ab692b2b4a78b67f
+      internalID: 13729602722923254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 161
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2d79c20cdad864ab6671eba6cbaea8
+      internalID: -3374112767110761004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 161
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe90a2bdb15d294fbc4ca372f129da9
+      internalID: -4562416822945913562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 161
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af88431dc6bc349b7e2293e69dd07c
+      internalID: -7583170541178325670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 161
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e26456552e7f34439e40bc586ab3739
+      internalID: 531156652764305585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35005168a33a36040916051bb1e6b126
+      internalID: 6444812470406537654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0143ba41d156e1b40b3922092ace0253
+      internalID: -2338029028511940539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8c113f6c075344da216d9005a8fa7c
+      internalID: -3559300424444942401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa6de804b9f5849b53047f25a9ff18
+      internalID: -4752866506575969118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dde98185d7235d498d42440a924670b
+      internalID: 1596138452915402804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9099f8e6f50dd84f9d5e245bd3f22a3
+      internalID: -7283262822123005134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bba404c14998243bdb33f783c64fdc
+      internalID: 7679812686920909981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_30
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20f4e3a6f62872459b8984ded324c44
+      internalID: 2429409029106762107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd7d240b4018ee4a80e42dd69f0d0b2
+      internalID: -1946278885719064168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abaaf174e7e32448af3fa4939f64ae4
+      internalID: 6351322432425078637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dd244ae1938174aaf15d86fcf57edc
+      internalID: 5860398868456545812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53939bb538398ba4a8171fa95b96d56b
+      internalID: 3981157589461226771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dc426792054124998b648b3148a92d
+      internalID: -1001316280856148225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13857b14099f66548b7f543510f0c1ab
+      internalID: -7402996794881160497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dddd7e8c852cd2418a059bbed604c60
+      internalID: 3343420681835066106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfa8e1a51681cc4ea83a1ad4d4052a0
+      internalID: 2431533477352161293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5041d89319254646ac63b0f86cab2c9
+      internalID: 2309780949389224104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512285b8247fc1749b9b766901a5786c
+      internalID: 2681275100881174807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 65
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b60fa0a1f9614bb64f198d33ef4c5
+      internalID: -2625860070621692520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 33
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcb030601d52234e9c35529e9b40800
+      internalID: -3956392383164098337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 65
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb79031bc020014280d18821c910e32
+      internalID: -1679673719761152158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6442f2161ffa2449eab8a32cf267bd
+      internalID: -3636645402086488235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 40
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cef546dac9623045a433c0e790464a1
+      internalID: -1964989002570815033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 35
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2081541f65b64ea36075fbed181c8
+      internalID: 2200672432143406379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1955530f305f441911343d93298713
+      internalID: -5912414903940087726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 44
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb3a6f63d77dce4ea8303bb34676c08
+      internalID: -490720016692591148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b6e2297b877045bd92f79a18123f6
+      internalID: 3699539693707815135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 65
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaef93d555576341a3e9ae3c2e1a308
+      internalID: 9041031032918044204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 36
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da3835e34717d647a1fac7cbd16e7a3
+      internalID: -7738117094550306970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_52
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 47
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6331dcd92c6b9f44da8694825ea0bd75
+      internalID: 1996845922908731402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff66be4b537def41872b6f835575605
+      internalID: 4943708645580867536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 65
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cceea34ab1be74593c7cd10b1a97ce
+      internalID: 6082617436808329603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_55
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 32
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e32ff39d7e3d1143b555b549cfae467
+      internalID: 1370250311331520253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 65
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a394e18a5e36fd47b3823894c346bc6
+      internalID: -8651382669469113922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicMirror_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e94284ed164c1d4b9fc15e13252948b
+      internalID: 872717569214148603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
